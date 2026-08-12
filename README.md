@@ -3,7 +3,7 @@
 ## Project  Link:-
 https://docs.google.com/spreadsheets/d/16TFjS-BJbpU2LKm2d81SolEUr0p6J2u2/edit?usp=sharing&ouid=118214303763742802960&rtpof=true&sd=true
 
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on analysing food delivery data for **Porter**, a digital delivery platform.
 
@@ -13,7 +13,7 @@ The project helps identify delivery patterns and provides useful insights that c
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 - Analyse the distribution of orders across different markets.
 - Compare average delivery time across restaurant categories.
@@ -28,7 +28,7 @@ The project helps identify delivery patterns and provides useful insights that c
 
 ---
 
-## 🗂️ Dataset Columns
+## Dataset Columns
 
 The dataset contains information related to food delivery orders.
 
@@ -48,7 +48,7 @@ The dataset contains information related to food delivery orders.
 
 ---
 
-## 🧹 Data Cleaning & Preparation
+## Data Cleaning & Preparation
 
 The following preparation steps were considered before analysis:
 
@@ -68,39 +68,7 @@ The calculated delivery time is then used for further analysis.
 
 ---
 
-## 📊 Analysis Performed
-
-### Basic-Level Analysis
-
-The project covers questions such as:
-
-1. What is the distribution of order volumes across different markets?
-2. How does average delivery time vary across restaurant categories?
-3. What are the peak hours for order placements?
-4. Which days of the week have the highest order volume?
-5. What is the correlation between the number of items and order subtotal?
-6. How is delivery time distributed?
-7. What percentage of deliveries take more than 30 minutes?
-8. How does delivery time relate to the number of busy delivery partners?
-9. What is the impact of the day of the week on average delivery time?
-10. Which stores have the highest average delivery time?
-
-### Medium-Level Analysis
-
-The project also includes deeper analysis such as:
-
-- Comparing delivery performance across different order protocols.
-- Studying the relationship between order volume and delivery time.
-- Analysing the impact of total items and order complexity on delivery time.
-- Identifying delivery-time trends throughout the week.
-- Studying the role of price range in the total order value.
-- Comparing delivery times across restaurant categories.
-- Analysing the availability of delivery partners and its impact on delivery time.
-- Comparing first-time and repeat customer ordering patterns.
-
----
-
-## 🛠️ Tools & Excel Skills Used
+## Tools & Excel Skills Used
 
 - **Microsoft Excel**
 - Data Cleaning
@@ -116,7 +84,7 @@ The project also includes deeper analysis such as:
 
 ---
 
-## 📈 Key Business Insights
+## Key Business Insights
 
 This project helps answer important business questions such as:
 
@@ -132,7 +100,7 @@ This project helps answer important business questions such as:
 
 ---
 
-## 💡 Business Recommendations
+## Business Recommendations
 
 Based on the analysis, Porter can use the findings to:
 
@@ -146,18 +114,18 @@ Based on the analysis, Porter can use the findings to:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 Porter_Delivery_Analysis/
 │
-├── 📊 Photos_Porter
+├──  Photos_Porter
 │
-├── 📄 README.md
+├──  README.md
      |-- Project Link
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 - Developed an Excel-based delivery performance analysis.
 - Analysed order volume, delivery time, restaurant categories, and delivery partners.
@@ -167,7 +135,7 @@ Porter_Delivery_Analysis/
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Nibha Kumari**
 
