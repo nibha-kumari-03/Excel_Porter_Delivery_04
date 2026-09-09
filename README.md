@@ -1,7 +1,6 @@
 # Porter – Optimizing Delivery for the Digital Diner
 
-## Project  Link:-
-[Dataset]([https://app.powerbi.com/view?r=very-long-link-here](https://docs.google.com/spreadsheets/d/18oXuaYwE6mcGlqKcoT9V013qjcEVpLUO/edit?usp=sharing&ouid=118214303763742802960&rtpof=true&sd=true
+## Project  Link:(https://docs.google.com/spreadsheets/d/18oXuaYwE6mcGlqKcoT9V013qjcEVpLUO/edit?usp=sharing&ouid=118214303763742802960&rtpof=true&sd=true
 ))
 
 
